@@ -1,0 +1,1146 @@
+[
+ {
+  "type": "Advisor",
+  "number": 87
+ },
+ {
+  "type": "Aetherborn",
+  "number": 16
+ },
+ {
+  "type": "Alien",
+  "number": 8
+ },
+ {
+  "type": "Ally",
+  "number": 95
+ },
+ {
+  "type": "Angel",
+  "number": 235
+ },
+ {
+  "type": "Antelope",
+  "number": 10
+ },
+ {
+  "type": "Ape",
+  "number": 32
+ },
+ {
+  "type": "Archer",
+  "number": 94
+ },
+ {
+  "type": "Archon",
+  "number": 19
+ },
+ {
+  "type": "Army",
+  "number": 0
+ },
+ {
+  "type": "Artificer",
+  "number": 191
+ },
+ {
+  "type": "Assassin",
+  "number": 77
+ },
+ {
+  "type": "Assembly-Worker",
+  "number": 11
+ },
+ {
+  "type": "Astartes",
+  "number": 22
+ },
+ {
+  "type": "Atog",
+  "number": 12
+ },
+ {
+  "type": "Aurochs",
+  "number": 4
+ },
+ {
+  "type": "Avatar",
+  "number": 89
+ },
+ {
+  "type": "Azra",
+  "number": 9
+ },
+ {
+  "type": "Badger",
+  "number": 7
+ },
+ {
+  "type": "Balloon",
+  "number": 0
+ },
+ {
+  "type": "Barbarian",
+  "number": 44
+ },
+ {
+  "type": "Bard",
+  "number": 16
+ },
+ {
+  "type": "Basilisk",
+  "number": 12
+ },
+ {
+  "type": "Bat",
+  "number": 26
+ },
+ {
+  "type": "Bear",
+  "number": 34
+ },
+ {
+  "type": "Beast",
+  "number": 462
+ },
+ {
+  "type": "Beeble",
+  "number": 5
+ },
+ {
+  "type": "Beholder",
+  "number": 7
+ },
+ {
+  "type": "Berserker",
+  "number": 115
+ },
+ {
+  "type": "Bird",
+  "number": 344
+ },
+ {
+  "type": "Blinkmoth",
+  "number": 0
+ },
+ {
+  "type": "Boar",
+  "number": 43
+ },
+ {
+  "type": "Bringer",
+  "number": 5
+ },
+ {
+  "type": "Brushwagg",
+  "number": 2
+ },
+ {
+  "type": "C'tan",
+  "number": 2
+ },
+ {
+  "type": "Camarid",
+  "number": 0
+ },
+ {
+  "type": "Camel",
+  "number": 9
+ },
+ {
+  "type": "Caribou",
+  "number": 0
+ },
+ {
+  "type": "Carrier",
+  "number": 5
+ },
+ {
+  "type": "Cat",
+  "number": 266
+ },
+ {
+  "type": "Centaur",
+  "number": 69
+ },
+ {
+  "type": "Cephalid",
+  "number": 27
+ },
+ {
+  "type": "Chicken",
+  "number": 0
+ },
+ {
+  "type": "Child",
+  "number": 5
+ },
+ {
+  "type": "Chimera",
+  "number": 21
+ },
+ {
+  "type": "Citizen",
+  "number": 39
+ },
+ {
+  "type": "Cleric",
+  "number": 546
+ },
+ {
+  "type": "Clown",
+  "number": 10
+ },
+ {
+  "type": "Cockatrice",
+  "number": 3
+ },
+ {
+  "type": "Construct",
+  "number": 196
+ },
+ {
+  "type": "Coward",
+  "number": 2
+ },
+ {
+  "type": "Crab",
+  "number": 33
+ },
+ {
+  "type": "Crocodile",
+  "number": 30
+ },
+ {
+  "type": "Custodes",
+  "number": 1
+ },
+ {
+  "type": "Cyclops",
+  "number": 31
+ },
+ {
+  "type": "Dauthi",
+  "number": 11
+ },
+ {
+  "type": "Demigod",
+  "number": 5
+ },
+ {
+  "type": "Demon",
+  "number": 175
+ },
+ {
+  "type": "Deserter",
+  "number": 0
+ },
+ {
+  "type": "Devil",
+  "number": 50
+ },
+ {
+  "type": "Dinosaur",
+  "number": 124
+ },
+ {
+  "type": "Djinn",
+  "number": 58
+ },
+ {
+  "type": "Dog",
+  "number": 109
+ },
+ {
+  "type": "Dragon",
+  "number": 328
+ },
+ {
+  "type": "Drake",
+  "number": 96
+ },
+ {
+  "type": "Dreadnought",
+  "number": 4
+ },
+ {
+  "type": "Drone",
+  "number": 63
+ },
+ {
+  "type": "Druid",
+  "number": 284
+ },
+ {
+  "type": "Dryad",
+  "number": 45
+ },
+ {
+  "type": "Dwarf",
+  "number": 111
+ },
+ {
+  "type": "Efreet",
+  "number": 27
+ },
+ {
+  "type": "Egg",
+  "number": 10
+ },
+ {
+  "type": "Elder",
+  "number": 36
+ },
+ {
+  "type": "Eldrazi",
+  "number": 136
+ },
+ {
+  "type": "Elemental",
+  "number": 529
+ },
+ {
+  "type": "Elephant",
+  "number": 68
+ },
+ {
+  "type": "Elf",
+  "number": 540
+ },
+ {
+  "type": "Elk",
+  "number": 24
+ },
+ {
+  "type": "Employee",
+  "number": 26
+ },
+ {
+  "type": "Eye",
+  "number": 5
+ },
+ {
+  "type": "Faerie",
+  "number": 103
+ },
+ {
+  "type": "Ferret",
+  "number": 1
+ },
+ {
+  "type": "Fish",
+  "number": 38
+ },
+ {
+  "type": "Flagbearer",
+  "number": 2
+ },
+ {
+  "type": "Fox",
+  "number": 40
+ },
+ {
+  "type": "Fractal",
+  "number": 1
+ },
+ {
+  "type": "Frog",
+  "number": 38
+ },
+ {
+  "type": "Fungus",
+  "number": 52
+ },
+ {
+  "type": "Gamer",
+  "number": 8
+ },
+ {
+  "type": "Gargoyle",
+  "number": 34
+ },
+ {
+  "type": "Germ",
+  "number": 0
+ },
+ {
+  "type": "Giant",
+  "number": 201
+ },
+ {
+  "type": "Gith",
+  "number": 4
+ },
+ {
+  "type": "Gnoll",
+  "number": 4
+ },
+ {
+  "type": "Gnome",
+  "number": 19
+ },
+ {
+  "type": "Goat",
+  "number": 13
+ },
+ {
+  "type": "Goblin",
+  "number": 426
+ },
+ {
+  "type": "God",
+  "number": 54
+ },
+ {
+  "type": "Golem",
+  "number": 136
+ },
+ {
+  "type": "Gorgon",
+  "number": 19
+ },
+ {
+  "type": "Graveborn",
+  "number": 0
+ },
+ {
+  "type": "Gremlin",
+  "number": 10
+ },
+ {
+  "type": "Griffin",
+  "number": 52
+ },
+ {
+  "type": "Guest",
+  "number": 23
+ },
+ {
+  "type": "Hag",
+  "number": 11
+ },
+ {
+  "type": "Halfling",
+  "number": 9
+ },
+ {
+  "type": "Hamster",
+  "number": 0
+ },
+ {
+  "type": "Harpy",
+  "number": 11
+ },
+ {
+  "type": "Head",
+  "number": 1
+ },
+ {
+  "type": "Hellion",
+  "number": 21
+ },
+ {
+  "type": "Hippo",
+  "number": 6
+ },
+ {
+  "type": "Hippogriff",
+  "number": 9
+ },
+ {
+  "type": "Homarid",
+  "number": 7
+ },
+ {
+  "type": "Homunculus",
+  "number": 22
+ },
+ {
+  "type": "Hornet",
+  "number": 0
+ },
+ {
+  "type": "Horror",
+  "number": 276
+ },
+ {
+  "type": "Horse",
+  "number": 43
+ },
+ {
+  "type": "Human",
+  "number": 3177
+ },
+ {
+  "type": "Hydra",
+  "number": 60
+ },
+ {
+  "type": "Hyena",
+  "number": 5
+ },
+ {
+  "type": "Illusion",
+  "number": 93
+ },
+ {
+  "type": "Imp",
+  "number": 41
+ },
+ {
+  "type": "Incarnation",
+  "number": 18
+ },
+ {
+  "type": "Inkling",
+  "number": 0
+ },
+ {
+  "type": "Inquisitor",
+  "number": 2
+ },
+ {
+  "type": "Insect",
+  "number": 202
+ },
+ {
+  "type": "Jackal",
+  "number": 24
+ },
+ {
+  "type": "Jellyfish",
+  "number": 14
+ },
+ {
+  "type": "Juggernaut",
+  "number": 19
+ },
+ {
+  "type": "Kavu",
+  "number": 46
+ },
+ {
+  "type": "Kirin",
+  "number": 11
+ },
+ {
+  "type": "Kithkin",
+  "number": 59
+ },
+ {
+  "type": "Knight",
+  "number": 383
+ },
+ {
+  "type": "Kobold",
+  "number": 14
+ },
+ {
+  "type": "Kor",
+  "number": 78
+ },
+ {
+  "type": "Kraken",
+  "number": 26
+ },
+ {
+  "type": "Lamia",
+  "number": 2
+ },
+ {
+  "type": "Lammasu",
+  "number": 2
+ },
+ {
+  "type": "Leech",
+  "number": 16
+ },
+ {
+  "type": "Leviathan",
+  "number": 22
+ },
+ {
+  "type": "Lhurgoyf",
+  "number": 10
+ },
+ {
+  "type": "Licid",
+  "number": 12
+ },
+ {
+  "type": "Lizard",
+  "number": 72
+ },
+ {
+  "type": "Manticore",
+  "number": 13
+ },
+ {
+  "type": "Masticore",
+  "number": 5
+ },
+ {
+  "type": "Mercenary",
+  "number": 43
+ },
+ {
+  "type": "Merfolk",
+  "number": 260
+ },
+ {
+  "type": "Metathran",
+  "number": 8
+ },
+ {
+  "type": "Minion",
+  "number": 42
+ },
+ {
+  "type": "Minotaur",
+  "number": 102
+ },
+ {
+  "type": "Mole",
+  "number": 4
+ },
+ {
+  "type": "Monger",
+  "number": 5
+ },
+ {
+  "type": "Mongoose",
+  "number": 3
+ },
+ {
+  "type": "Monk",
+  "number": 111
+ },
+ {
+  "type": "Monkey",
+  "number": 12
+ },
+ {
+  "type": "Moonfolk",
+  "number": 25
+ },
+ {
+  "type": "Mouse",
+  "number": 2
+ },
+ {
+  "type": "Mutant",
+  "number": 57
+ },
+ {
+  "type": "Myr",
+  "number": 38
+ },
+ {
+  "type": "Mystic",
+  "number": 7
+ },
+ {
+  "type": "Naga",
+  "number": 39
+ },
+ {
+  "type": "Nautilus",
+  "number": 2
+ },
+ {
+  "type": "Necron",
+  "number": 23
+ },
+ {
+  "type": "Nephilim",
+  "number": 5
+ },
+ {
+  "type": "Nightmare",
+  "number": 66
+ },
+ {
+  "type": "Nightstalker",
+  "number": 12
+ },
+ {
+  "type": "Ninja",
+  "number": 47
+ },
+ {
+  "type": "Noble",
+  "number": 71
+ },
+ {
+  "type": "Noggle",
+  "number": 4
+ },
+ {
+  "type": "Nomad",
+  "number": 28
+ },
+ {
+  "type": "Nymph",
+  "number": 18
+ },
+ {
+  "type": "Octopus",
+  "number": 12
+ },
+ {
+  "type": "Ogre",
+  "number": 115
+ },
+ {
+  "type": "Ooze",
+  "number": 45
+ },
+ {
+  "type": "Orb",
+  "number": 0
+ },
+ {
+  "type": "Orc",
+  "number": 80
+ },
+ {
+  "type": "Orgg",
+  "number": 4
+ },
+ {
+  "type": "Otter",
+  "number": 3
+ },
+ {
+  "type": "Ouphe",
+  "number": 14
+ },
+ {
+  "type": "Ox",
+  "number": 17
+ },
+ {
+  "type": "Oyster",
+  "number": 1
+ },
+ {
+  "type": "Pangolin",
+  "number": 5
+ },
+ {
+  "type": "Peasant",
+  "number": 22
+ },
+ {
+  "type": "Pegasus",
+  "number": 20
+ },
+ {
+  "type": "Pentavite",
+  "number": 0
+ },
+ {
+  "type": "Performer",
+  "number": 35
+ },
+ {
+  "type": "Pest",
+  "number": 2
+ },
+ {
+  "type": "Phelddagrif",
+  "number": 2
+ },
+ {
+  "type": "Phoenix",
+  "number": 33
+ },
+ {
+  "type": "Phyrexian",
+  "number": 262
+ },
+ {
+  "type": "Pilot",
+  "number": 17
+ },
+ {
+  "type": "Pincher",
+  "number": 0
+ },
+ {
+  "type": "Pirate",
+  "number": 119
+ },
+ {
+  "type": "Plant",
+  "number": 63
+ },
+ {
+  "type": "Praetor",
+  "number": 12
+ },
+ {
+  "type": "Primarch",
+  "number": 2
+ },
+ {
+  "type": "Prism",
+  "number": 0
+ },
+ {
+  "type": "Processor",
+  "number": 11
+ },
+ {
+  "type": "Rabbit",
+  "number": 6
+ },
+ {
+  "type": "Raccoon",
+  "number": 4
+ },
+ {
+  "type": "Ranger",
+  "number": 45
+ },
+ {
+  "type": "Rat",
+  "number": 66
+ },
+ {
+  "type": "Rebel",
+  "number": 50
+ },
+ {
+  "type": "Reflection",
+  "number": 1
+ },
+ {
+  "type": "Reveler",
+  "number": 0
+ },
+ {
+  "type": "Rhino",
+  "number": 51
+ },
+ {
+  "type": "Rigger",
+  "number": 16
+ },
+ {
+  "type": "Robot",
+  "number": 28
+ },
+ {
+  "type": "Rogue",
+  "number": 426
+ },
+ {
+  "type": "Sable",
+  "number": 1
+ },
+ {
+  "type": "Salamander",
+  "number": 13
+ },
+ {
+  "type": "Samurai",
+  "number": 67
+ },
+ {
+  "type": "Sand",
+  "number": 0
+ },
+ {
+  "type": "Saproling",
+  "number": 0
+ },
+ {
+  "type": "Satyr",
+  "number": 29
+ },
+ {
+  "type": "Scarecrow",
+  "number": 39
+ },
+ {
+  "type": "Scion",
+  "number": 0
+ },
+ {
+  "type": "Scorpion",
+  "number": 14
+ },
+ {
+  "type": "Scout",
+  "number": 169
+ },
+ {
+  "type": "Sculpture",
+  "number": 0
+ },
+ {
+  "type": "Serf",
+  "number": 0
+ },
+ {
+  "type": "Serpent",
+  "number": 46
+ },
+ {
+  "type": "Servo",
+  "number": 0
+ },
+ {
+  "type": "Shade",
+  "number": 33
+ },
+ {
+  "type": "Shaman",
+  "number": 473
+ },
+ {
+  "type": "Shapeshifter",
+  "number": 121
+ },
+ {
+  "type": "Shark",
+  "number": 10
+ },
+ {
+  "type": "Sheep",
+  "number": 4
+ },
+ {
+  "type": "Siren",
+  "number": 17
+ },
+ {
+  "type": "Skeleton",
+  "number": 67
+ },
+ {
+  "type": "Slith",
+  "number": 6
+ },
+ {
+  "type": "Sliver",
+  "number": 109
+ },
+ {
+  "type": "Slug",
+  "number": 9
+ },
+ {
+  "type": "Snake",
+  "number": 110
+ },
+ {
+  "type": "Soldier",
+  "number": 820
+ },
+ {
+  "type": "Soltari",
+  "number": 10
+ },
+ {
+  "type": "Spawn",
+  "number": 1
+ },
+ {
+  "type": "Specter",
+  "number": 25
+ },
+ {
+  "type": "Spellshaper",
+  "number": 56
+ },
+ {
+  "type": "Sphinx",
+  "number": 71
+ },
+ {
+  "type": "Spider",
+  "number": 74
+ },
+ {
+  "type": "Spike",
+  "number": 11
+ },
+ {
+  "type": "Spirit",
+  "number": 607
+ },
+ {
+  "type": "Splinter",
+  "number": 0
+ },
+ {
+  "type": "Sponge",
+  "number": 2
+ },
+ {
+  "type": "Squid",
+  "number": 6
+ },
+ {
+  "type": "Squirrel",
+  "number": 15
+ },
+ {
+  "type": "Starfish",
+  "number": 3
+ },
+ {
+  "type": "Surrakar",
+  "number": 4
+ },
+ {
+  "type": "Survivor",
+  "number": 0
+ },
+ {
+  "type": "Teddy",
+  "number": 0
+ },
+ {
+  "type": "Tentacle",
+  "number": 0
+ },
+ {
+  "type": "Tetravite",
+  "number": 0
+ },
+ {
+  "type": "Thalakos",
+  "number": 7
+ },
+ {
+  "type": "Thopter",
+  "number": 17
+ },
+ {
+  "type": "Thrull",
+  "number": 24
+ },
+ {
+  "type": "Tiefling",
+  "number": 21
+ },
+ {
+  "type": "Treefolk",
+  "number": 93
+ },
+ {
+  "type": "Trilobite",
+  "number": 4
+ },
+ {
+  "type": "Triskelavite",
+  "number": 0
+ },
+ {
+  "type": "Troll",
+  "number": 48
+ },
+ {
+  "type": "Turtle",
+  "number": 31
+ },
+ {
+  "type": "Tyranid",
+  "number": 37
+ },
+ {
+  "type": "Unicorn",
+  "number": 28
+ },
+ {
+  "type": "Vampire",
+  "number": 357
+ },
+ {
+  "type": "Vedalken",
+  "number": 65
+ },
+ {
+  "type": "Viashino",
+  "number": 56
+ },
+ {
+  "type": "Volver",
+  "number": 5
+ },
+ {
+  "type": "Wall",
+  "number": 147
+ },
+ {
+  "type": "Walrus",
+  "number": 1
+ },
+ {
+  "type": "Warlock",
+  "number": 75
+ },
+ {
+  "type": "Warrior",
+  "number": 961
+ },
+ {
+  "type": "Wasp",
+  "number": 0
+ },
+ {
+  "type": "Weird",
+  "number": 10
+ },
+ {
+  "type": "Werewolf",
+  "number": 77
+ },
+ {
+  "type": "Whale",
+  "number": 12
+ },
+ {
+  "type": "Wizard",
+  "number": 970
+ },
+ {
+  "type": "Wolf",
+  "number": 79
+ },
+ {
+  "type": "Wolverine",
+  "number": 8
+ },
+ {
+  "type": "Wombat",
+  "number": 2
+ },
+ {
+  "type": "Worm",
+  "number": 9
+ },
+ {
+  "type": "Wraith",
+  "number": 6
+ },
+ {
+  "type": "Wurm",
+  "number": 101
+ },
+ {
+  "type": "Yeti",
+  "number": 13
+ },
+ {
+  "type": "Zombie",
+  "number": 558
+ },
+ {
+  "type": "Zubera",
+  "number": 7
+ }
+]

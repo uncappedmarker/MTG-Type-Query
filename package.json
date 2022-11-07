@@ -1,0 +1,15 @@
+{
+  "name": "MTG-Type-Query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7"
+  },
+  "author": "Jaime Baker <jaimebaker.com>",
+  "license": "NONE"
+}

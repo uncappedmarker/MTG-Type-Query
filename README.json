@@ -1,0 +1,12 @@
+# MTG Type Query
+
+## About
+
+I was curious about the quantity of each creature type in Magic: The Gathering, so I wrote this to query against scryfall's api and count
+
+## Run
+
+```
+$ npm ci
+$ npm start
+```
